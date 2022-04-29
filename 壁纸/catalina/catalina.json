@@ -1,0 +1,19 @@
+{
+  'imageFilename': '*.jpeg',
+  'imageCredits': 'Apple',
+  'sunriseImageList': [
+    2,
+    3，
+  ],
+  'dayImageList': [
+    4,
+    5,
+  ],
+  'sunsetImageList': [
+    6,
+    7,
+  ],
+  'nightImageList': [
+    1
+  ]
+}
